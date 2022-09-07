@@ -17,4 +17,10 @@ My legal name is Eduardo, but you can refer to me as Eddy if you'd like! Anyways
 
 ![Profile views](https://gpvc.arturio.dev/eddybello)  
 
-
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rvela042&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+<h6>Note : This does not indicate my skill level. This is only a metric of which languages have the most code on GitHub.</h6>
+</p>
